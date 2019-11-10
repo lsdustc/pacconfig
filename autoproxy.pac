@@ -14,7 +14,7 @@ var rules = [
     [
         [
             "askubuntu.com",
-            "gitub.com",
+            "github.com",
             "aftygh.gov.tw", 
             "aide.gov.tw", 
             "aliyun.com", 
