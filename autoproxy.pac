@@ -13,6 +13,7 @@ var rules = [
     ], 
     [
         [
+            "googleusercontent.com",
             "askubuntu.com",
             "github.com",
             "aftygh.gov.tw", 
